@@ -1,16 +1,8 @@
 {
-  "menuItems": [
-    {
-      "name": "Inicio",
-      "url": "https://rebrand.ly/BrayanRockerWeb"
-    },
-     {
-      "name": "MegaPack Cristiano",
-      "url": "https://rebrand.ly/BrayanRockerMegaPacks"
-    },
-    {
-      "name": "Blog",
-      "url": "https://rebrand.ly/brayanrockerwebblog"
-    }
-  ]
+  "links": [
+    { "text": "Enlace 1", "url": "https://example.com/1" },
+    { "text": "Enlace 2", "url": "https://example.com/2" },
+    { "text": "Enlace 3", "url": "https://example.com/3" }
+  ],
+  "separator": "·"
 }
