@@ -1,8 +1,21 @@
 {
   "links": [
-    { "text": "Enlace 1", "url": "https://example.com/1" },
-    { "text": "Enlace 2", "url": "https://example.com/2" },
-    { "text": "Enlace 3", "url": "https://example.com/3" }
+    {
+      "text": "Contact",
+      "url": "https://rebrand.ly/contactamebrayanrocker"
+    },
+    {
+      "text": "Zona de Pedidos",
+      "url": "https://rebrand.ly/zonadepedidos"
+    },
+    {
+      "text": "Reportar Link Caido",
+      "url": "https://rebrand.ly/reportarlinkcaido"
+    },
+    {
+      "text": "Noticias",
+      "url": "https://rebrand.ly/brayanrockernoticias"
+    }
   ],
-  "separator": "·"
+  "separator": " | "
 }
