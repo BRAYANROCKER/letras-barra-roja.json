@@ -1,20 +1,20 @@
 {
   "links": [
     {
-      "text": "Contact",
-      "url": "https://rebrand.ly/contactamebrayanrocker"
+      "text": "",
+      "url": ""
     },
     {
-      "text": "Zona de Pedidos",
-      "url": "https://rebrand.ly/zonadepedidos"
+      "text": "Contactanos >>",
+      "url": "https://rebrand.ly/teescucho"
     },
     {
-      "text": "Reportar Link Caido",
-      "url": "https://rebrand.ly/reportarlinkcaido"
+      "text": "Todos los Aportes >>",
+      "url": "#"
     },
     {
-      "text": "Noticias",
-      "url": "https://rebrand.ly/brayanrockernoticias"
+      "text": "Mas >>",
+      "url": "#"
     }
   ],
   "separator": " | "
